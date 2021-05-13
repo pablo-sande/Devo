@@ -1,0 +1,67 @@
+What are cookies?
+A cookie is a small text file that is placed on your computer when you visit any web pages that uses cookies. A cookie contains information that allows websites to recognize your computer and perform a variety of functions such as recording which pages of the website you visit or saving your preferences that allow you to personalize your viewing experience. Cookies are recorded via your web browser (e.g. Internet Explorer, Firefox or Safari) and are not visible on a website itself.
+
+Cookies can be either ‘first party’, which means they are used by an organization on its own website, or ‘third party’ which is when they are used by an organization on another organization’s website. Some cookies are ‘session’ cookies that are deleted from your computer as soon as you close your web browser. ‘Persistent’ cookies do not self-delete until a specific period of time has elapsed. Some examples of cookies: (i) analytics cookies collect information about how visitors use websites to allow companies to measure site performance and how effective their marketing efforts are; (ii) advertising cookies recognize a user’s device and help to provide the user with more relevant content and measure the effectiveness of ad campaigns. Further below we provide information on the cookies we use and highlight which are first and third party cookies.
+
+For more general information about cookies visit: www.allaboutcookies.org.
+
+How we use cookies
+We use a variety of cookies to perform different functions, from remembering you are logged into a particular online service to tracking your usage of our websites and perform targeted ad campaigns. In the case of tracking, we use this information to enhance the usability and performance of our websites and online services and no personally-identifiable information is recorded.
+
+By using and browsing our websites, you consent to cookies being used and data being collected and processed in accordance with this policy. If you do not consent, you must disable cookies or refrain from using the site.
+
+First party cookies
+The table below lists the first party cookies we use and their purpose:
+
+Cookie Name or Service	Purpose	More Information
+Google Analytics	These cookies are used by the Google Analytics service to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.	Overview of privacy at Google
+lt-cookie-policy	This cookie is used to identify you as a previous visitor. That will prevent from showing the Cookies Policy Banner everytime you visit our website. This is a functional cookie that does not contain any personal information.	
+Third party cookies
+When you visit our websites there are some cookies that are set that are not related to us. These are referred to as third party cookies. When you visit a page that contains embedded content, for example from YouTube, you may be sent cookies from these websites. We have no control over the setting of these cookies, so we advise you check the third-party websites for more information about their cookies and how to manage them.
+
+A list of our third-party cookies is provided below:
+
+Cookie Name or Supplier	Purpose	More Information
+Demandbase	Demandbase uses tuuid cookies for analytics and targeted advertising services provided by Demandbase products and IUUID cookies for performance and optimization of Demandbase data and reporting. Demandbase analyzes online identifiers (cookies) in the aggregate and applies AI and machine learning models to provide us with analytics data regarding the use of our website. The use of cookies provides us with business intent; helps identify and count unique users; drive site optimization; and improve retargeting. Demandbase syncs with third party ad technology partners so that these users can be targeted in ad campaigns on the relevant networks. Demandbase may send and receive personal data (cookies) to associate Demandbase assigned cookies or online identifiers with third-party partners’, such as DMPs and other adtech providers, cookies or online identifiers (also known as “cookie syncing”) which involves allowing its third-party partners to set cookies and assign online identifiers in furtherance of its services and to increase performance of ad campaigns. 
+In addition, Demandbase uses an OPTOUT cookie that allows you to opt-out of advertising (including interest-based ads and personalization) by Demandbase only when it is done through the use of cookies.
+
+View Demandbase Cookie Policy
+Facebook	Some of our web pages include a Facebook social plugin to enable visitors to share our website content with others via the Facebook website. Anonymous data is collated (browser type, location, page views).	View Facebook’s privacy policy
+Twitter	Some of our web pages include a ‘tweet’ button, which enables visitors to share content via the twitter service. Anonymous data is collated (browser type, page views, referring URLs, time/date).	View Twitter’s privacy policy
+YouTube	We use YouTube to host some of our video content. When you view a web page on our site with an embedded YouTube video, YouTube creates at least three cookies: VISITOR_INFO1_LIVE, use_hitbox, and PREF. In some circumstances you may also find an additional GEO cookie. We use the YouTube service as a convenience for our visitors, so you can view video content on your computer and mobile devices.	View YouTube’s privacy policy
+Vimeo	We use Vimeo to host some of our video content. We use the Vimeo service as a convenience for our visitors, so you can view video content on your computer and mobile devices.	View Vimeo’s privacy policy
+How can I control cookies?
+Most web browsers accept cookies automatically, but you can change the settings of your browser to reject all cookies, to only allow ‘trusted’ websites to use them, or to only accept cookies from those websites which you are currently on. Please follow the instructions provided below on how to do this for the most popular web browsers.
+
+Please note: we do not recommend rejecting cookies as this is likely to result in some features on our websites and some of our online services not functioning correctly or as intended. For example, if a website cannot tell if you are signed in without using cookies, you will not be able to access certain information or use a particular service.
+
+In addition, as set forth above, you may opt-out of Demandbase cookies through the Digital Advertising Alliance’s (DAA) WebChoices tool, available at: https://optout.aboutads.info/.
+
+Microsoft Internet Explorer:
+
+Choose the menu “tools” then “Internet Options”
+Click on the “privacy” tab
+Select the appropriate setting
+Mozilla firefox:
+
+Choose the menu “tools” then “Options”
+Click on the icon “privacy”
+Select the relevant options under “history”
+Opera 6.0 and above:
+
+Select the “menu” option at the top-left
+Click on “Settings”
+Click on “Preferences”
+Click on the “Advanced” tab
+Click on the “Cookies” option on the left-hand side
+Select the relevant options
+Safari:
+
+Select the cog icon at the top-left
+Click on “Preferences”
+Click on the “Privacy” option
+Select the relevant options
+There is further guidance available on the website www.aboutcookies.org which tells you how to control and remove cookies using the options available in your web browser.
+
+More Information
+For more information about how we use cookies, please contact the Web Team.
