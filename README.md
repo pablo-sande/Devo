@@ -41,6 +41,6 @@ For every period increment P, it will check if we have any N (**O(n))** and, if 
 The overall complexity for time and space should be **O(n2)** as the most expensive case is having one level nested loops and data structures.
 
 **Note**: By using object keys to store the words in the files at F, we don't need to constantly iterate through lists to check if a term in TT exist in a file, we can try to access that key at **O(1).**
-Simirarly, we save the file names as keys at I to increment the tfidf without having to find it in a list.
+Similarly, we save the file names as keys at I to increment the tfidf without having to find it in a list.
 
 **Note 2**: When calculating the tf, we could count all token occurrences first and then calculate the tf, but I chose to calculate it everytime so I don't have to loop again once I finish counting.

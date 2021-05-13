@@ -39,10 +39,10 @@ describe("TF-IDF", () => {
         // Despite privacy.txt having more occurrences for 'devo', legal.txt has the highest tf-idf
         expect(ranking[0][0]).toBe('legal.txt');
 
-        ranking = tfidflib.getRanking(tfidflib.calculateTfIdf(['legal', 'cookies', 'privacy'], files)); 
+        ranking = tfidflib.getRanking(tfidflib.calculateTfIdf(['legal', 'cookie', 'privacy'], files)); 
 
         /*
-        This shows how cookies.txt has the highest tf-idf, as one of the terms (cookies) has a lot of
+        This shows how cookies.txt has the highest tf-idf, as one of the terms (cookie) has a lot of
         occurrences there and it is quite irrelevant for the other documents 
         */
         expect(ranking[0][0]).toBe('cookies.txt');
